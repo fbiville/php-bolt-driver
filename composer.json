@@ -1,0 +1,13 @@
+{
+    "name": "fbiville/php-bolt-driver",
+    "description": "Toy Neo4j Bolt Driver",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Florent Biville",
+            "email": "florent.biville@neo4j.com"
+        }
+    ],
+    "require": {}
+}
