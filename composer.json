@@ -9,5 +9,12 @@
             "email": "florent.biville@neo4j.com"
         }
     ],
-    "require": {}
+    "require": {
+      "ext-sockets": "*"
+    },
+    "scripts": {
+        "test": [
+            "./vendor/bin/phpspec run"
+        ]
+    }
 }
